@@ -66,5 +66,3 @@ EOF
 esac
 
 intel-undervolt apply
-
-kdialog --passivepopup "Intel undervolt profile applied" 2
