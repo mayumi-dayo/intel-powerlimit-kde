@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=powerlimit
+Comment=change PL1/PL2 limit profile
+Exec=~/.local/bin/powerlimit.sh
+Icon=battery
+Terminal=false
+Type=Application
+Categories=Utility;
