@@ -1,5 +1,5 @@
 # intel-powerlimit-kde
-Quick PL1/PL2 limit profile switcher for linux using kdialog and intel-undervolt. Requires hasswell or newer.
+Quick PL1/PL2 limit profile switcher for linux using kdialog and intel-undervolt; can also be used for undervolt profiles. Requires hasswell or newer.
 ## Prerequisites
 ```intel-undervolt, kdialog```<br/>
 intel undervolt can be installed here:<br/>
@@ -19,3 +19,4 @@ low power: PL1=13, PL2=15
 balance: PL1=25, PL2=55
 performance: PL1=45, PL2=70
 ```
+the default profiles have no undervolt, but profiles can be used for undervolting.
