@@ -9,8 +9,8 @@ kdialog should be in your distro's package manager.
 
 ## Setup
 place ```powerlimit.sh``` in ```/usr/local/bin/```. 
-place ```powerswitch.sh ``` in ~/.local/bin/```
-place ```powerlimit.desktop``` where ever you want the shortcut such as a panel, or in ```~/.local/share/applications/``` if you want to run it like a program.
+place ```powerswitch.sh ``` in \~/.local/bin/```
+place ```powerlimit.desktop``` where ever you want the shortcut (such as a panel), or in ```\~/.local/share/applications/``` if you want to run it like a program.
 
 the default profiles are (units in watts):
 ```
