@@ -14,9 +14,11 @@ place ```powerlimit.desktop``` where ever you want the shortcut (such as a panel
 
 the default profiles are (units in watts):
 ```
-anemia: PL1=8, PL2=10
-low power: PL1=13, PL2=15
-balance: PL1=25, PL2=55
-performance: PL1=45, PL2=70
+  3w
+  6w
+  12w
+  15w
+  20w
+  70w
 ```
 the default profiles have no undervolt, but profiles can be used for undervolting.
