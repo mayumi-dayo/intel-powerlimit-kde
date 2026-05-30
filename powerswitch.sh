@@ -1,11 +1,13 @@
 #!/bin/bash
 
-CHOICE=$(kdialog --title "Intel Undervolt Profile" \
+CHOICE=$(kdialog --title "Intel PL Profile" \
   --menu "Select power profile:" \
-  4 "Anemia" \
-  1 "Low power" \
-  2 "Balance" \
-  3 "Performance")
+  5 "Anemic 3w" \
+  4 "6w" \
+  1 "12w" \
+  2 "15w" \
+  3 "20w" \
+  6 "ULTRA")
 
 [ -z "$CHOICE" ] && exit 0
 
